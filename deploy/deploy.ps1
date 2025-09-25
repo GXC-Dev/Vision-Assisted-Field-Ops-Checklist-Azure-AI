@@ -1,7 +1,7 @@
 
 <# ===============================================
- Field Ops Vision Checklist – Deploy Script
- Author: Gaurish (AI-102) | Version: v1.0
+ Field Ops Vision Checklist 
+ Author: GXC-Dev | Version: v1.3
 ================================================ #>
 
 param(
