@@ -1,0 +1,7 @@
+{
+  "name": "field-ops-webapp",
+  "private": true,
+  "scripts": {
+    "start": "echo 'PWA placeholder - integrate later'"
+  }
+}

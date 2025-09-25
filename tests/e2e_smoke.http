@@ -1,0 +1,9 @@
+
+### Inference
+GET http://localhost:8001/healthz
+
+### RAG
+GET http://localhost:8002/healthz
+
+### Report
+GET http://localhost:8003/healthz

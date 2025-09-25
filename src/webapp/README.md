@@ -1,0 +1,1 @@
+# Webapp (PWA placeholder) - capture photos offline and sync when online.
